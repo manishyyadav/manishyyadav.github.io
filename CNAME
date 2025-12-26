@@ -102,7 +102,7 @@
   measurementId: "G-8353MQHVRH"
 };
 
-        const apiKey = "AIzaSyCwt_K7LXccuVDhXrAw6Eot3SxM_Eyt1Yw";  
+        const apiKey = "";  
 
         // Initialize Firebase (Compat)
         let app, auth, db;
